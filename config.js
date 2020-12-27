@@ -18,10 +18,6 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
@@ -30,14 +26,14 @@ module.exports = {
     bio: "Software Engineer @ Facebook. Colorado College alum. Avid Dota player.",
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: 'lillydoingecon',
+      github: 'lforalaska',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'lillychen48',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
