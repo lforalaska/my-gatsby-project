@@ -3,7 +3,7 @@ template: post
 title: Engineering Economics
 slug: engineering-economics
 socialImage: /media/stonks.jpg
-draft: false
+draft: true
 date: 2020-12-27T02:36:59.181Z
 description: How I use my college degree in industry
 category: rambles
@@ -14,7 +14,10 @@ tags:
 ---
 <!--StartFragment-->
 
-I graduated from Colorado College in 2019 with a degree in mathematical economics. I currently work as a software engineer on a machine learning infrastructure team at Facebook. People often use me as a heuristic for “Your major doesn’t matter!” I would argue I use my economics degree at work all the time. 
+"Your college major doesn't matter!"
+
+When I was still a student at Colorado College, meeting alums at professional networking events, this was a frequent adage. English majors turned doctors. Math majors now journalists. 
+
 
 - - -
 
