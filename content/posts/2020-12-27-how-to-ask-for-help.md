@@ -26,7 +26,7 @@ First off, cold emails/LinkedIn messages/Twitter DM's are totally fine. For the 
 
 **Bad message:**
 
-> Hi Lilly! I read your recent work on \[x] thing and I love it for \[y] reasons. I'm a college student at \[z] school studying \[something similar to x]. If you have the time, I'd love to connect with you more about \[x].
+> Hi Lilly! I read your recent work on \[x] thing and I love it for \[y] reasons. I'm a college student at \[z] school. If you have the time, I'd love to connect with you more about \[x].
 
 The difference is pretty subtle. In this example, the problem with the bad message is there's no direct call to action. The bad message doesn't tell me clearly what the person wants and therefore I can't accurately prioritize their message. Moreover, I find that when I do agree to "connect" with people who send vague messages, they're also not sure what they want from me either. The result is the marginal value for the marginal cost is not very high because we have to spend time figuring out what the ask even is. 
 
