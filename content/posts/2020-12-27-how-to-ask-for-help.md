@@ -14,10 +14,6 @@ Humility and thoroughness are both traits to admire, but they are also impedimen
 
 - - -
 
-## Industry
-
-There's two types of industry help. One for getting a job and one for succeeding at your job. 
-
 ### How to ask someone for a job
 
 Let's assume you need a job from someone you do not know. What's the best way to ask? This answer will vary depending on your industry, I will answer it from the tech industry perspective. 
@@ -36,4 +32,38 @@ The difference is pretty subtle. In this example, the problem with the bad messa
 
 Generally, it's also a good idea to ask for async help whenever possible. Async help refers to responses in text through email, DM's, or even tweets. This lets the helper respond when it is convenient for them, which is important when trying to get a response to a cold ask. Cold asks for phone calls are a lot more friction for me. 
 
-*It's important for cold messages to have a direct call to action with the smallest friction possible.*
+*It's important for cold messages to have a direct call to action with minimal friction.*
+
+
+
+### How to ask someone for help at your job
+
+Now let's assume you already have a job. Good job! You'd probably like to keep your job by being somewhat competent. Asking questions is a surefire way to attract attention that you might not be competent at your job... But surely you'll have to ask a question eventually. So you spend time formulating the perfect question. One that provokes curiosity and intrigue and definitely not the first hit if one where to Google it. 
+
+Some give a general rule of thumb here with a heuristic like "Spend 20 mins figuring it out and ask for help if you can't get it by then". These people are trying to teach problem solving skills while still keeping you moving along. I think as far as rule of thumbs go, it's not a bad one, but it does not maximize your potential. Here's three different scenarios:
+
+**Best outcome for Lilly and everyone else**
+>Lilly is in a meeting with 10 other engineers discussing a system design. Senior Engineer A makes a broad statement such as "We can't do [x]" and everyone else nods along. Lilly stops the meeting and asks "Could you explain why [x] doesn't work here?"
+
+**Mediocre outcome for Lilly and everyone else**
+>Lilly is in a meeting with 10 other engineers discussing a system design. Senior Engineer A makes a broad statement such as "We can't do [x]" and everyone else nods along. Lilly writes down the statement with a note to investigate why after the meeting
+
+**Bad outcome for Lilly and everyone else**
+>Lilly is in a meeting with 10 other engineers discussing a system design. Senior Engineer A makes a broad statement such as "We can't do [x]" and everyone else nods along. Lilly also nods along without knowing why. 
+
+In each of these examples, I specifically say these outcomes are best/mediocre/bad for everyone on the team. This is because the more you learn, the better it is for your team. This might seem counterintuitive to the previous piece of advice where I said calls to action should have minimal friction. In the best outcome scenario, I suggest stopping a meeting with many others present in order to get your question answered, a high friction call to action. However, unlike the cold asks, this is within your team. You are all mutually invested in each others' success. 
+
+By asking the question that no one else is asking, you are both learning and clarifying assumptions. This is more important than it might appear. For example, maybe Engineer B thought [x] doesn't work because [y], but others think it's because [z]. Maybe those two reasons have different solutions and costs. Getting those assumptions in the open is important for the team. And if there is obvious consensus, you still learned because now you know why [x] doesn't work and the meeting moves on.
+
+Most often, I see people fall into the mediocre outcome category. They spend extra time after work hours to fill in their knowledge gaps. They work long hours digging on questions that others could answer for them in minutes. I've been in this category before. I eventually moved categories when I realized the same scenarios above from the Senior Engineer A's perspective:
+
+**Best outcome for Senior Engineer A and everyone else**
+>Senior Engineer A is in a meeting with 10 other engineers discussing a system design. Today's discussion is about a key component that everyone will need to understand. Lilly asks why they can't just do [x], causing a lively discussion on something Senior Engineer A took for granted. New ideas come up and one of them seems more promising than the current solution. 
+
+**Mediocre outcome for Senior Engineer A and everyone else**
+>Senior Engineer A is in a meeting with 10 other engineers discussing a system design. Today's discussion is about a key component that everyone will need to understand. No one talks during the meeting, but a few people send questions afterwards. Senior Engineer A calls a second meeting to discuss the follow up questions.
+
+**Bad outcome for Senior Engineer A and everyone else**
+>Senior Engineer A is in a meeting with 10 other engineers discussing a system design. Today's discussion is about a key component that everyone will need to understand. No one talks during the meeting or after. Senior Engineer A assumes everyone buys in to the strategy. 6 months later, they find a major flaw in the system design. 
+
+I believe the reason why most people avoid asking public questions is because they don't want to "waste" anyone's time. The reality could not be further from this. Getting questions and answers across all levels of seniority results in discussions that are both productive and educative. 
