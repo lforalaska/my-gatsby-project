@@ -3,7 +3,7 @@ template: post
 title: How to ask for help
 slug: how-to-ask-for-help
 socialImage: /media/help.png
-draft: true
+draft: false
 date: 2020-12-27T23:30:20.729Z
 description: A guide for college students and recent grads on how to ask for help
 category: advice
