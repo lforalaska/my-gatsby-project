@@ -43,7 +43,7 @@ Now during COVID, the coding interview happens via an online text editor while s
 
 > I feel the need to warn you at this point because I've had a few people ask-- "Wait if everything is online now, why can't I just look up the problem during the interview?". On morale principle, cheating is never good. But I will also warn you at this point that there are built-in tools that attempt to detect cheating. Most editing software will show when you have navigated away from the window, even if it's not a tab switch. Your interview can most likely hear you type and if they don't see anything, that could be a warning sign. Moreover, even if you were to find the answer immediately, you'd have to explain how you solved the problem to the interviewer. Good interviewers will push your understanding or extend the application. To the experienced interviewer, it is obvious when someone has looked up the problem without truly understanding it. 
 
-Okay so now that we agree cheating is not the answer, your next step is to prepare. You should know all basic data structures such as arrays, dictionaries, linked lists, queues, stacks, and trees. For algorithms, you should the run time and space complexity of sorts and merges. Depending on the company, some types of questions are more popular than others. I highly recommend purchasing [Leetcode Premium](https://leetcode.com/subscribe/?ref=lp_pl) if you are interviewing at a FAANG because they have curated problems by company. For example, Facebook is notorious for asking graph theory problems (during my interview, I was asked 2 binary search tree problems). 
+Okay so now that we agree cheating is not the answer, your next step is to prepare. You should know all basic data structures such as arrays, dictionaries, linked lists, queues, stacks, and trees. For algorithms, you should know the run time and space complexity of sorts and merges. Depending on the company, some types of questions are more popular than others. I highly recommend purchasing [Leetcode Premium](https://leetcode.com/subscribe/?ref=lp_pl) if you are interviewing at a FAANG because they have curated problems by company. For example, Facebook is notorious for asking graph theory problems (during my interview, I was asked 2 binary search tree problems). 
 
 If you've never heard of some of the data structures in the previous paragraph, this is your cue to go learn them first. At my first technical interview, I was asked a question about a linked list and I had never even heard of that data structure before. You can imagine the sweats I had in that moment. Save yourself now and watch some YouTube videos. HackerRank produces content on all the basic data structures and there's many YouTubers these days that do walkthroughs of popular interviewing questions. 
 
@@ -71,7 +71,11 @@ When you do practice, make sure you practice explaining your thoughts out loud. 
 
 > I'll need to convert the lexicographical string to a dictionary because I'll have to perform a lot of lookups. Look ups using a dictionary is O(1) time. 
 
-5. Code.
+5. Code
+
+6. Debug manually
+
+> Let's use the example array and step through the code line by line
 
 Other things to keep in mind:
 
@@ -87,7 +91,8 @@ Other things to keep in mind:
 
 This is probably the interview you are most accustomed to. 
 
-"What are your greatest strengths and weaknesses?"\
+"What are your greatest strengths and weaknesses?"
+
  "Tell me about a time you failed and learned."
 
  These questions are trying to dig at whether you are someone who aligns with company values. Most companies post their [values on their website](https://www.facebook.com/careers/facebook-life/) and you should definitely read them beforehand and think about how they apply to you. 
