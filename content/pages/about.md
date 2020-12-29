@@ -5,11 +5,9 @@ slug: about
 socialImage: /media/img_0013.jpg
 draft: false
 ---
-
-
 *The short:*
 
-> I graduated from Colorado College in 2019 with a degree in Mathematical Economics. I self taught coding my senior year to pass a technical interview at a cybersecurity company in Boston. I then joined my friend's startup building a gaming AI. During COVID, we couldn't raise another funding round so I joined Facebook. In my free time, I like to play video games and volunteer. 
+> I graduated from Colorado College in 2019 with a degree in Mathematical Economics. I am a self taught coder. I previously worked at Rapid7, a cybersecurity company in Boston and Midgame, a gaming AI startup. I currently work at Facebook. In my free time, I enjoy playing Dota and volunteering.
 
 *The long:*
 
@@ -42,8 +40,6 @@ When an offer letter arrived from Rapid7, I was dumbfounded. I could not believe
 Six months into my job, a friend at a startup reached out to me. He knew me from my time as a cofounder with Colorado College Esports. He asked me to join his startup as a software engineer. We were going to build a gaming AI. After participating in Betaworks and TechStars, we were unable to raise another round due to COVID-19. We used our remaining funds to pay everyone for 1 month while we looked for jobs. 
 
 I was filled with regret at this time. My friends at Rapid7 had a stable job. COVID-19 was scary and unknown. My parents both stopped working (my father as an Uber driver and my mother as a home health aid). The dread of unemployment and failure was creeping up on me again. Grinding Leetcode in March, at the height of COVID-19 intensity, reminds me of this meme:
-
-
 
 ![This is fine dog meme](/media/05onfire1_xp-jumbo-v2.jpg "Grinding Leetcode at the height of the pandemic scare")
 
