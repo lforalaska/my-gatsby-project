@@ -1,11 +1,11 @@
 ---
 template: post
-title: The Technical Interview
-slug: the-technical-interview
+title: Tech Industry Interviews
+slug: tech-industry-interviews
 socialImage: /media/410hiapgycl._sx348_bo1-204-203-200_.jpg
 draft: false
 date: 2020-12-28T23:58:57.266Z
-description: A guide for new grads to prepare for the technical interview
+description: "An overview of the tech industry and common interviewing methodologies. "
 category: advice
 tags:
   - industry
