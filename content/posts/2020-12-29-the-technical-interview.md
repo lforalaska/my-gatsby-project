@@ -21,9 +21,9 @@ At the same thickness as your college calculus textbook, it elicits usually the 
 
 There's a common acronym used to describe the "top" big tech companies: FAANG. Sometimes FANG, sometimes FAANMG. It's usually some combination of Facebook, Apple, Amazon, Netflix, Google, and Microsoft. These companies are amongst the highest paying and their name on your resume is considered a golden stamp of approval in most circles. Along with the FAANG, there are companies at the similar compensation scale that most tech circles hold in high esteem, even if your grandparents have never heard of them. These companies include Stripe, Uber/Lyft, AirBnB, and ByteDance (TikTok). To see an overview of compensation of these companies, check out[](https://www.levels.fyi/2020/?ref=top_bar_banner) [levels.fyi](https://www.levels.fyi/2020/?ref=top_bar_banner). Getting an interview at one of these companies is best done through an internal referral as they receive thousands of outside applications for each posting. 
 
-Usually the next "tier" of tech companies are the hot startups. Startups that recently raised a Series C are growing rapidly. None of your family members have probably heard of them, but you'll likely get to do a greater variety of things than at the more notable companies. Many of these positions are also fully remote. They probably offer sizable equity and less base salary, though more and more companies are becoming flexible on how you'd like to be paid. A handful of these companies will IPO and could generate incredible wealth for early employees. At these companies, the interviewing process will most likely emulate the FAANG-style ones, but with less formality. At this stage, a referral is also worth a lot more since there are less employees. 
+Usually the next "tier" of tech companies are the hot startups. Startups that recently raised a Series C and are growing rapidly. None of your family members have probably heard of them, but you'll likely get to do a greater variety of things than at the bigger companies. Many of these positions are also fully remote. They probably offer sizable equity and less base salary, though more and more companies are becoming flexible on how you'd like to be paid. A handful of these companies will IPO and could generate incredible wealth for early employees. At these companies, the interviewing process will most likely emulate the FAANG-style ones, but with less formality. At this stage, a referral is also worth a lot more since there are less employees. 
 
-Then there's every other tech company. Some of these are extremely early stage startups where you'd be an engineer, but also a designer and customer support. Your base pay is likely very small and your stock options are sizable (and risky). The interviewing process is very informal. Most likely you just know one of the cofounders. The interview process may be more of a selling talk where they're just trying to convince you to join. Other companies are long established public companies that are in "maintenance" mode. You'd learn a few things, but most of the employees tend to be just waiting out their days until retirement. Work life balance is usually good and the pay is decent. The interviewing process can vary dramatically. They may do something similar to FAANG style, they may do take home assignments, they may use a third party assessment tool. 
+Then there's every other tech company. Some of these are extremely early stage startups where you'd be an engineer, but also a designer and customer support. Your base pay is likely very small and your stock options are sizable (and risky). The interviewing process is very informal. Most likely you just know one of the cofounders. The interview process may be more of a selling point where they're just trying to convince you to join. Other companies are long established public companies that are in "maintenance" mode. You'd learn a few things, but most of the employees tend to be just waiting out their days until retirement. Work life balance is usually good and the pay is decent. The interviewing process can vary dramatically. They may do something similar to FAANG style, they may do take home assignments, they may use a third party assessment tool. 
 
 ## The Interviewing Process
 
@@ -53,10 +53,44 @@ If you have heard of those data structures, but it's been awhile, make sure you 
 
 Yes, practice. I understand the frustration many college students and even seasoned industry professionals have about these "leetcode" problems. "But you'll never use this in real life!!". On some level, that's true. I've never been asked to invert a binary search tree or implement a recursion solution on the job. The industry hiring methodology is about minimizing false positives even at the risk of high false negatives. There are undoubtedly talented engineers who are rejected by this arcane practice, but I would also say I have never met a bad engineer at my job. 
 
+When you do practice, make sure you practice explaining your thoughts out loud. There should be no confusion about what your code does. This means there will be significant talking before any code is written. Here is an example interview answer for the popular question [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/):
+
+1. State the problem and goal
+
+> Okay so after reading the question, my goal is to write a function that returns true/false for whether the array "words" is sorted in a given lexicographical order.
+
+2. State the brute force solution
+
+> The brute force solution would be to compare each letter in each word to every letter in every word that comes after it, returning false if any of the pairs don't satisfy the lexicographical order. This would run in O(letters squared)*O(words squared).
+
+3. State the better solution
+
+> One way we can cut down the runtime would be to compare each letter of each word only to the word immediately following. This limits our traversal of the same letters, resulting in a runtime of O(letters*words). 
+
+4. Pseudocode the better solution and talk through what you're thinking, such as:
+
+> I'll need to convert the lexicographical string to a dictionary because I'll have to perform a lot of lookups. Look ups using a dictionary is O(1) time. 
+
+5. Code.
+
+Other things to keep in mind:
+
+1. Don't be afraid of asking questions if there's any confusion.
+
+> Is the string order always 26 characters? 
+
+2. Check in with your interviewer periodically.
+
+> Do you have any questions about my solution?
+
 ## The Behavioral Interview
 
-This is probably the interview you are most accustomed to. "What are your greatest strengths and weaknesses?"\
- "Tell me about a time you failed and learned." These questions are trying to dig at whether you are someone who aligns with company values. Most companies post their [values on their website](https://www.facebook.com/careers/facebook-life/) and you should definitely read them beforehand and think about how they apply to you. 
+This is probably the interview you are most accustomed to. 
+
+"What are your greatest strengths and weaknesses?"\
+ "Tell me about a time you failed and learned."
+
+ These questions are trying to dig at whether you are someone who aligns with company values. Most companies post their [values on their website](https://www.facebook.com/careers/facebook-life/) and you should definitely read them beforehand and think about how they apply to you. 
 
 Similar to the coding interview, it is important to practice this part. People often chuff at practicing the behavioral interview because they want to "sound authentic". Don't fall into this trap. Thinking about your narrative and how you align with specific values is an important exercise. It will not make you sound fake, it will make you sound *prepared*. Write out full answers to these common questions and practice saying them out loud until you have it memorized. 
 
@@ -64,11 +98,17 @@ At some companies, the behavioral interview can save you from a poor performance
 
 ## The Systems Design Interview
 
-For most new grads, this interview will be like pulling teeth. The questions will be something like "Design a news feed API". "Design a URL shortener". "Design YouTube". If you have not worked in industry before, these questions are nearly impossible. Fear not, this interview also tends to count the least for new grads. This question only becomes highly weighted in senior and above positions. 
+For most new grads, this interview will be like pulling teeth. The questions will be something like: 
 
-If you are short on time, this is the question I recommend skipping preparation. Instead, I will offer you the practical advice of what to do when you don't know the answer. First, admit that you do not know the answer. Then, try to figure out the answer. State your assumptions and your goal. Admit where you are unsure and just guessing. Engage with the interviewer for hints. Interviewers do not want to see you struggle (much as you might feel differently). Interviewers want to see you shine at your best, so engage them in your learning process. 
+"Design a news feed API."
 
+"Design a URL shortener."
 
+"Design YouTube." 
+
+If you have not worked in industry before, these questions are nearly impossible. Fear not, this interview also tends to count the least for new grads. This question only becomes highly weighted in senior and above positions. 
+
+If you are short on time, this is the question I recommend skipping preparation. Instead, I will offer you the practical advice of what to do when you don't know the answer. First, admit that you do not know the answer. Then, try to figure out the answer. Try not to guess or throw out buzzwords. State your assumptions and your goal. Engage with the interviewer for hints. Interviewers do not want to see you struggle (much as you might feel differently). Interviewers want to see you shine at your best, so engage them in your learning process. 
 
 ## Overall
 
