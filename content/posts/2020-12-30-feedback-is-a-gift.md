@@ -22,7 +22,7 @@ For most of my college years, I was angry. I had a chip on my shoulder, an achin
 
 The feedback I got from my classmates and Professor Hoel changed my life. I was shocked. It was gracious and kind. Quite frankly I expected people to write about what an asshole I was. They didn't. They merely expressed regret that they could not help me more. I remember sitting in Professor Hoel's office couch as we talked about the class and the feedback. She was equally sympathetic as my peers, but firm on the need for change. I don't recall the exact words of this conversation, except that I had tears in my chest the whole time. 
 
-I don't know when I was finally able to let go of that anger, but I know that was the turning point for me. People I had been rude and mean to, with the power to decide my grade outcome for that class, showed me sincere kindness. They gave me the gift of feedback.
+I don't know when I was finally able to let go of that anger, but I know that was the turning point for me. People I had been rude and mean to, with the power to decide my grade outcome for that class, showed me sincere kindness. They showed me that you don't need tough love to grow. Good ol' fashioned regular love was more than enough. They gave me the gift of feedback.
 
 - - -
 
@@ -30,4 +30,4 @@ These days I have to write feedback pretty often. Whether its for mentees, inter
 
 > While gifts can be fun surprises, feedback should never be a surprise.  
 
-Ultimately, I want to give feedback that will genuinely help people. I try to understand from their perspective and then give another inch of grace before writing. Most of the time I don't need to find kind things to write-- they write themselves. More often, I have to find an actual improvement suggestion.
+Ultimately, I want to give feedback that will genuinely help people. I try to understand from their perspective and then give another inch of grace before writing. Most of the time I don't need to find kind things to write-- they write themselves. More often the struggle is finding something for them to improve upon.
