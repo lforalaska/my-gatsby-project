@@ -231,6 +231,13 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-plugin-heap',
+      options: {
+        appId: '1254277786',
+        enableOnDevMode: true 
+      }
+    },
+    {
       resolve: '@sentry/gatsby',
       options: {
         dsn: process.env.SENTRY_DSN,
