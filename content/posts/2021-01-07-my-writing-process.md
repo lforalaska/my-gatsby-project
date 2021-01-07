@@ -3,7 +3,7 @@ template: post
 title: My writing process
 slug: my-writing-process
 socialImage: /media/image-2.jpg
-draft: true
+draft: false
 date: 2021-01-07T19:26:04.099Z
 description: I've received a lot of positive feedback for my "About Me"
   section's writing style. Since then, a few people have approached me about my
