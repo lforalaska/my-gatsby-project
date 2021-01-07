@@ -5,12 +5,11 @@ slug: my-writing-process
 socialImage: /media/image-2.jpg
 draft: false
 date: 2021-01-07T19:26:04.099Z
-description: I've received a lot of positive feedback for my "About Me"
+description: "I've received a lot of positive feedback for my \"About Me\"
   section's writing style. Since then, a few people have approached me about my
   writing process and approach. I would not consider myself to be a professional
   (or even amateur) writer. The goal of this article is just to outline my
-  thought process around writing. This is broadly applicable to most forms of
-  writing.
+  thought process around writing. "
 category: advice
 ---
 I've received a lot of positive feedback for my "About Me" section's writing style. Since then, a few people have approached me about my writing process and approach. I would not consider myself to be a professional (or even amateur) writer. The goal of this article is just to outline my thought process around writing. This is broadly applicable to most forms of writing.
@@ -60,6 +59,8 @@ After I write, I save and walk away. I stop thinking about the writing completel
 The reason it is important to evaluate from both perspectives is because intent needs to match impact. For example, let's say I spent a lot of time elaborating on the difficulty of the Distributed Systems course I took in college before claiming my success. Here's the hypothetical result:
 
 **Intent**: I want to show that I knew very little about computer science and was in over my head.
+
+
 **Impact**: Reader thinks I was clearly naturally talented all along.
 
 The impact does not match the intent. I have to understand, from the listener perspective, what the impact is of my words in order to compare it to the intent. 
