@@ -6,13 +6,13 @@ socialImage: /media/image-2.jpg
 draft: false
 date: 2021-01-07T19:26:04.099Z
 description: "I've received a lot of positive feedback for my \"About Me\"
-  section's writing style. Since then, a few people have approached me about my
+  section's writing style. Since then, a few people have asked me about my
   writing process and approach. I would not consider myself to be a professional
   (or even amateur) writer. The goal of this article is just to outline my
   thought process around writing. "
 category: advice
 ---
-I've received a lot of positive feedback for my "About Me" section's writing style. Since then, a few people have approached me about my writing process and approach. I would not consider myself to be a professional (or even amateur) writer. The goal of this article is just to outline my thought process around writing. This is broadly applicable to most forms of writing.
+I've received a lot of positive feedback for my "About Me" section's writing style. Since then, a few people have asked me about my writing process and approach. I would not consider myself to be a professional (or even amateur) writer. The goal of this article is just to outline my thought process around writing. This is broadly applicable to most forms of writing.
 
 - - -
 
