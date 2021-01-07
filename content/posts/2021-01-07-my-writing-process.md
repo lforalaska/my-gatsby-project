@@ -30,22 +30,22 @@ For example, when I wrote my about page, I imagined myself at a professional hap
 
 This process is one that takes refinement. I started with what I *didn't* particularly care to showcase: achievements, awards, and expertise. These attributes are hopefully already well defined on my resume and LinkedIn profile. I wanted to convey who I am as a person, or more accurately, who I believe I am as a person.
 
-I make this distinction because past events in your life will never change, but how you *feel* about them will change. When I was writing my college application essay, "the whole monk thing" was a way bigger deal to me. I went into great detail about how that experience shaped me... at the time. In my current about section, I spend a lot of time emphasizing how hunger to provide shaped me. In a few years when I'm doing <insert something hopefully positively impactful to the world>, this particular job hunting experience will probably fade from memory, to be replaced by new life changing experiences. 
+I make this distinction because past events in your life will never change, but how you *feel* about them will change. When I was writing my college application essay, "the whole monk thing" was a way bigger deal to me. I went into great detail about how that experience shaped me. In my current about section, I spend a lot of time emphasizing how "hunger to provide" shaped me. In a few years when I'm doing something \~awesome\~, this particular job hunting experience will probably fade from memory, to be replaced by new life changing experiences. 
 
-As you write and you craft your narrative, it's important to remember your story is always evolving. Your writing skill can only carry you as far as your own perspective. 
+As you write and craft your narrative, it's important to remember your story is always evolving. Your writing skill can only carry you as far as your own perspective. 
 
 > The art of the story is a crafted with a pen and mirror.
 
 ## While I write
 
-While I write, I try not to erase anything before completing the thought. It is important to get all of your thoughts out first and refine later. I also continue to speak all of my writing out loud. If I wouldn't say it, I'm don't write it. 
+While I write, I try not to erase anything before completing the thought. It is important to get all of your thoughts out first and refine later. I also continue to speak all of my writing out loud. If I wouldn't say it, I don't write it. 
 
-When I finish a thought from the speaker perspective, I read the writing out loud from the listener perspective. I want to put myself in the shoes of a person who has to listen to me drone on. As I measure myself against the goal of my writing, I'll also consider stylistic choices:
+When I finish a thought from the speaker perspective, I read the writing out loud from the listener perspective. I want to put myself in the shoes of a person who has to listen to me drone on. As I measure myself against the goals of my writing, I'll also consider stylistic choices:
 
 * Am I being intentional with my word choice? My sentence structure?
 * What do I want the mood to be?
 
-For example, even as I'm writing this, I made some stylistic choices. My first draft said "...I try not to *backspace* anything...". In this version, I changed the word "backspace" to "erase". This is an intentional choice. I wanted to convey that deleting the words is to interrupt your thinking. I imagine a sketch being drawn and then someone running an eraser straight down the middle of it. Be intentional with your words and structure. 
+For example, even as I'm writing this, I made some stylistic choices. My first draft said "...I try not to *backspace* anything...". In this version, I changed the word "backspace" to "erase". This is an intentional choice. I wanted to convey that deleting your words mid-sentence is akin to interruption. Visually, someone running an eraser straight through the middle of a sketch. Be intentional with your words and structure. 
 
 Mood is another consideration I make. Mood is independent of content and audience. Take the professional happy hour scenario again. I could be talking to the exact same people about the exact same thing, but I could be doing it with the glow of hope or with a grim shadow. The way to express mood is often subtle. My suggestion is to know the mood you'd like to express, obtain that mood, then write. 
 
@@ -63,7 +63,7 @@ The reason it is important to evaluate from both perspectives is because intent 
 
 **Impact**: Reader thinks I was clearly naturally talented all along.
 
-The impact does not match the intent. I have to understand, from the listener perspective, what the impact is of my words in order to compare it to the intent. 
+The impact does not match the intent. I have to understand, from the listener perspective, what the impact is before I can match it to the intent. 
 
 ## tl;dr
 
